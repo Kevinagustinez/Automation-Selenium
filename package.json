@@ -1,0 +1,14 @@
+{
+  "name": "cucumber_selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report": "node index.js"
+  },
+  "author": "Kevin Agustinez",
+  "license": "ISC",
+  "devDependencies": {
+    "multiple-cucumber-html-reporter": "^3.3.0"
+  }
+}
